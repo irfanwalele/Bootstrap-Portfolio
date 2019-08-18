@@ -184,6 +184,10 @@ body {
   .copyright {
     position: center;
   }
+
+  .socialMedia {
+    width: 35px;
+}
   
   /* END CONTACT FORM PAGE */
   
