@@ -4,7 +4,7 @@ body {
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
   
     /* Visual */
-    background-image: url("../imgs/ignasi_pattern_s.png");
+    background-image: url("assets/imgages/ignasi_pattern_s.png");
   }
   
   html {
@@ -179,6 +179,10 @@ body {
   
   .submit-btn:hover {
     opacity: .7;
+  }
+
+  .copyright {
+    position: center;
   }
   
   /* END CONTACT FORM PAGE */
